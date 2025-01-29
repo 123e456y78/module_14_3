@@ -8,7 +8,7 @@ from aiogram.types import ReplyKeyboardMarkup, KeyboardButton
 from aiogram.types import InlineKeyboardMarkup, InlineKeyboardButton
 from aiogram.types import FSInputFile
 import asyncio
-api = '7314899914:AAHcsc1SyUJccc3bK3jNxYvAkCdAfC8fxas'
+api = '!!!!!!!!!'
 bot = Bot(token=api)
 storage = MemoryStorage()
 dp = Dispatcher(storage=storage)
